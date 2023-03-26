@@ -1,1 +1,3 @@
-from .__main__ import main
+from .SSO import SSO
+
+__all__ = ['SSO']
